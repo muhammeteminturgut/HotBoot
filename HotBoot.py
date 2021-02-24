@@ -29,7 +29,6 @@ def mountPartitions(partition_list):
     mount_list=list()
     for mount in partition_list:
         os.mkdir("/mnt/checkfreeze"+str(drive_index))
-        #subprocess.run("mkdir /mnt/checkfreeze"+str(drive_index), stderr=NULL)
         try:
             subprocess.check_output("ntfs-3g "+mount[0]+" /mnt/checkfreeze"+str(drive_index), stderr=NULL,shell=True)
             mount_list.append("/mnt/checkfreeze"+str(drive_index))
