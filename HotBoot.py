@@ -25,6 +25,7 @@ def listPartitions():
     return drive_list
 
 def mountPartitions(partition_list):
+    print('\033[33m'+'[*] Mounting Drives...')
     drive_index=0
     mount_list=list()
     for mount in partition_list:
