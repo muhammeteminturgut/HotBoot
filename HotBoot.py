@@ -35,7 +35,6 @@ def mountPartitions(partition_list):
         except:
             os.rmdir("/mnt/checkfreeze"+str(drive_index))
         drive_index+=1
-    time.sleep(3)
     return mount_list
 
 def checkDeepFreeze(mounted_list):
