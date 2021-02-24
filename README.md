@@ -21,3 +21,5 @@
 License
 ----
 ![N|Solid](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+Deep Freeze is trademark of the Faronics Corporation.
