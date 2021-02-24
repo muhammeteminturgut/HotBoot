@@ -1,7 +1,7 @@
 # HotBoot
 - Universal Anti Deep Freeze Tool (6.x.x - 8.x.x)
 
-~**TODOS**~
+**TODOS**
 - [ ] Converting HotBoot to PEP8 valid Python file.
 - [ ] Making HotBoot a simple bootable program. (Maybe based on the Tiny Core Linux)
 
