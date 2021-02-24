@@ -8,6 +8,7 @@
 **Requirements**
 - Bootable Live USB Linux (Tested on Ubuntu 20.04 LTS)
 - fdisk
+- ntfs-3g
 - Python 3
 
 **Using**
