@@ -58,7 +58,7 @@ def patchBytes(df_dir):
     
 
 def opSuccess():
-    print('\033[37m'+'Deep Freeze status changed to "Boot Thawed" successfully.')
+    print('\033[32m'+'Deep Freeze status changed to "Boot Thawed" successfully.')
     print('\033[37m'+'If you want to remove Deep Freeze from your computer.\nVisit the Faronics website and download their latest version of Deep Freeze.\nYou can uninstall Deep Freeze through the installation file you downloaded.')
 
     
