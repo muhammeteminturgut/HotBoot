@@ -11,13 +11,16 @@
 - ntfs-3g
 - Python 3
 
-**Using**
+**Usage**
 - Boot from Live USB.
 - Just run HotBoot.py with sudo:
 
         sudo python3 HotBoot.py
 
 - After HotBoot is running Deep Freeze status changed to Boot Thawed.
+
+**Screenshot**
+![N|Solid](https://raw.githubusercontent.com/muhammeteminturgut/HotBoot/main/screenshot.png)
 
 License
 ----
