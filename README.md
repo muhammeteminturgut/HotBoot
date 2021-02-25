@@ -19,7 +19,8 @@
 
 - After HotBoot is running Deep Freeze status changed to Boot Thawed.
 
-**Screenshot**
+Screenshot
+----
 ![N|Solid](https://raw.githubusercontent.com/muhammeteminturgut/HotBoot/main/screenshot.png)
 
 License
